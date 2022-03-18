@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-common/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-common-db/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service-api/dongyimai-sellergoods-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-web/portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-canal-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-itempage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-sms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-user-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service-api/dongyimai-order-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-gateway/dongyimai-gateway-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/demo/dongyimai-pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service-api/dongyimai-pay-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-service/dongyimai-file-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
